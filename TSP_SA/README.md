@@ -1,11 +1,11 @@
-編譯與執行:
+## 編譯與執行:
 	python3 hw3.py
-執行成功後，輸入要input的檔名:
+## 執行成功後，輸入要input的檔名:
 	Input file name: readfile.txt
-輸出結果在output.txt及city result.png
+## 輸出結果在output.txt及city result.png
 
-此程式之演算法為SA
-程式流程為:
+## 此程式之演算法為SA
+### 程式流程為:
 先製作一個放入所有城市的list，前後都是原點
 接著隨機交換兩個城市，除了原點
 如果路徑長更短則儲存，路徑長更長則依熱力學公式:
