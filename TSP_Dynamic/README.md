@@ -1,4 +1,4 @@
-# Alogorithm is dynamic programming
+# This alogorithm is dynamic programming
 
 ## Command:
 	python3 hw2.py
