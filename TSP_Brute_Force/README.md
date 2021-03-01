@@ -1,4 +1,4 @@
-#  Used brute force alogorithm
+#  This alogorithm is brute force 
 
 ## Command:
 	python3 hw1.py
