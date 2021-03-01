@@ -1,4 +1,4 @@
-# Alogorithm is SA
+# This alogorithm is simulated annealing
 
 ## Command:
 	python3 hw3.py
