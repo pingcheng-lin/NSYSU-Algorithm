@@ -1,6 +1,6 @@
-#  This alogorithm is brute force 
+# This alogorithm is brute force 
 
-## Command:
-	python3 hw1.py
+## Command
+	python3 brute.py
 	Input file name: readfile.txt
-## Output is output.txt and city result.png
+## Output

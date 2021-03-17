@@ -79,7 +79,7 @@ def draw(best_order): #畫圖
     plt.xlabel('x label')
     plt.ylabel('y label')
     plt.title("City sequence")
-    fig.savefig("city result.png")
+    fig.savefig("city_result.png")
 
 if __name__ == "__main__":
     time_start = time.time() #計時開始

@@ -94,7 +94,7 @@ def draw(x,y): #畫成圖
     plt.xlabel('x label')
     plt.ylabel('y label')
     plt.title("City sequence")
-    fig.savefig("city result.png")
+    fig.savefig("city_result.png")
     
  
 def result(tim, best_distance, best_order):

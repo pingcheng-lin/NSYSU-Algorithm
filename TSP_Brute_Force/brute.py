@@ -10,7 +10,8 @@ def distant(data): #calculate the distant
     return total
 
 def get_data(): #read data from readfile.txt
-    input_file = open("readfile.txt","r")
+    name = input("Input file name: ")
+    input_file = open(name,"r")
     raw = input_file.read() #raw store unorganized data
     raw = list(map(int, raw.split())) 
     i = 0
@@ -41,7 +42,7 @@ def draw(x,y):
     plt.xlabel('x label')
     plt.ylabel('y label')
     plt.title("City sequence")
-    fig.savefig("city result.png")
+    fig.savefig("city_result.png")
     
  
 def result(tim, best_distance, best_order):
